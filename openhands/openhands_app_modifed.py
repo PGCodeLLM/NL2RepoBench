@@ -79,10 +79,10 @@ def create_openhands_container(auto_entry: AppData) -> str:
         ports=ports,  # Port mappings
         volumes=volumes,  # Volume mounts
         command=None,  # Commands (use default)
-        auto_remove=True,  # Auto remove(--rm)
+        auto_remove=False,  # DO NOT Auto remove (changed from True)
         extra_hosts=extra_hosts,  # Extra host mappings
         pull_always=False,  # Always pull image (--pull=always)
-        # network_mode="host"
+        network_mode="host"
     )
 
     logger.info(f"容器ID: {container.id}")
@@ -105,7 +105,7 @@ def start_app(app_data: AppData):
 
     # Ensure workspace exists
     os.makedirs(workspace_path, exist_ok=True)
-    os.chmod(workspace_path, 0o777) #Solve permission issue for docker container
+    os.chmod(workspace_path, 0o777)
     logger.info(f"Create workspace directory: {workspace_path}")
 
     pro_name = app_data.pro_name_list[0]
@@ -212,10 +212,10 @@ api_key = "{app_data.sk}"
             ports=ports,  # Port mappings
             volumes=volumes,  # Volume mounts
             command=command,  # Command to run when the container starts
-            auto_remove=True,  # (--rm)
+            auto_remove=False,  # DO NOT auto remove (--rm has been turned off)
             extra_hosts=extra_hosts,  # Extra host mappings
             pull_always=True,  # Always pull image (--pull=always)
-            # network_mode="host"
+            network_mode="host"
         )
 
         logger.info(f"Container {container_name} started successfully, container ID: {container.id}")
@@ -230,29 +230,22 @@ api_key = "{app_data.sk}"
         logs = ""
 
         try:
-            # 由于设置了auto_remove=True，容器执行完成后会自动删除
-            # 我们通过检查容器是否还存在来判断是否执行完成
+            # 修改为了通过检查容器的状态属性来判断容器是否退出
             while True:
-                try:
-                    # 尝试刷新容器状态，如果容器已经被删除会抛出异常
-                    container.reload()
-                    # 如果没有异常，说明容器还在运行，等待一段时间后再检查
-                    time.sleep(5)
-                except Exception:
-                    # 容器已经被自动删除，说明执行完成
-                    logger.info(f"Container {container_name} has completed execution and been automatically removed")
+                container.reload() # 刷新状态
+                if container.state.status in ['exited', 'dead']:
+                    logger.info(f"Container {container_name} has completed execution (status: {container.state.status})")
+                    # 既然容器被保留了，我们可以直接提取真实的 Exit Code
+                    exit_code = container.state.exit_code
                     break
+                time.sleep(5)
 
-            # 容器已经被删除，我们无法直接获取退出码
-            # 但可以假设如果容器正常完成就是0，异常就是非0
-            exit_code = 0  # 由于容器能够正常完成并被删除，假设为成功
-            logger.info(f"Container {container_name} has completed execution successfully")
+            logger.info(f"Container {container_name} finished with exit code {exit_code}")
 
         except Exception as e:
             logger.error(f"Error occurred while monitoring container execution: {str(e)}")
             exit_code = -1
 
-        
         logger.info("Start Post-processing")
         post_process_result = post_process_task(task_uuid, workspace_path, test_data, logger)
 

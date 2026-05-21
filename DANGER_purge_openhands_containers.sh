@@ -1,0 +1,1 @@
+docker ps -aq --filter "name=openhands" | xargs -r docker rm -f

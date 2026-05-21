@@ -44,7 +44,7 @@ def create_openhands_container(auto_entry: OpenhandsDockerEntry) -> str:
     # Create and start the container
     container = create_advanced_container(
         host_info=auto_entry.docker_host_info,
-        image_name="docker.all-hands.dev/all-hands-ai/openhands:0.49",  # Image name
+        image_name="ghcr.io/all-hands-ai/openhands:0.49",  # Image name
         container_name=auto_entry.container_name,                       # Container name
         env_vars=env_vars,                                              # Environment variables
         ports=ports,                                                    # Port mappings

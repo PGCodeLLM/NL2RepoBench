@@ -258,7 +258,7 @@ enable_think = true
 enable_finish = true
 
 # LLM configuration group to use
-llm_config = 'claude_opus_4_1_thinking'
+llm_config = 'openai_qwen3-235b-a22b-instruct-2507'
 
 # Whether to use prompt extensions (e.g., micro-agents, repository/runtime information)
 #enable_prompt_extensions = true
@@ -291,9 +291,10 @@ enable_condensation_request = false
 #base_container_image = "nikolaik/python-nodejs:python3.12-nodejs22"
 
 # Use host network
-#use_host_network = false
+#use_host_network = true
 
 # Additional build arguments for the runtime
+runtime_extra_build_args = ["--network=host"]
 #runtime_extra_build_args = ["--network=host", "--add-host=host.docker.internal:host-gateway"]
 
 # Enable automatic code checks after editing

@@ -1,0 +1,10 @@
+*.log
+*.log.*
+result_old/*
+result/*
+workspaces_old/*
+workspaces/*
+line_count/*
+__pycache__/
+workspaces/
+*.pyc
