@@ -64,12 +64,12 @@ The runtime image can be customized. The default image is sufficient for running
 - LiteLLM endpoints should use the openai/ prefix, apparently
 - Model used needs to be specified in both config.json and template/config.template.toml
 - Approximate costs - running an easy task with Qwen3-235B took about $5 on NewAPI (5RMB?)
-- Models with "." in the name should have them replaced with "_"
+- Models with "." in the name should have them replaced with "_" (probably - needs further confirmation)
 - Some test_commands.json may be incorrectly formatted and give errors? Those may need to be changed when encountered
   - E.g.
   ```["touch README.md && pip install -e .","pytest --continue-on-collection-errors tests"]``` should become ```["sh -c 'touch README.md && pip install -e .'","pytest --continue-on-collection-errors tests"]```
 - The source for the docker images was changed to ghcr.io because the old one was dead
 - Existing config.template.toml now has network set to host because the containers can't communicate without it on Linux
 - If something breaks, you'll need to stop the Docker containers from autodeleting in openhands_app.py. Set ```auto_remove=False```, and get Codex or your other tool of choice to modify the code to not rely on periodic polling for container deletion to determine the end of a run. Then, run ```bash get_docker_logs.sh``` - the logs will be dumped in ```docker_logs/```.
-```bash run_nl2r_test.sh``` to start. Specify run number in the bash script
+- ```bash run_nl2r_test.sh``` to start. Specify run number in the bash script
 - i wish whoever was responsible for the documentation of this repo or lack thereof a very bad day
