@@ -5,7 +5,7 @@ RUN_NUMBER=17
 
 rm -rf workspaces/*
 
-bash DANGER_purge_openhands_containers.sh
+# bash DANGER_purge_openhands_containers.sh
 
 LOG_FILE="test_run_${RUN_NUMBER}_ghcr.log"
 
