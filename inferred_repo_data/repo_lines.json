@@ -1,0 +1,602 @@
+[
+    {
+        "full-repo-name": "Tinche/aiofiles",
+        "repo-name": "aiofiles",
+        "lines_of_code": 1903,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "treykeown/arguably",
+        "repo-name": "arguably",
+        "lines_of_code": 4154,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "blazickjp/arxiv-mcp-server",
+        "repo-name": "arxiv-mcp-server",
+        "lines_of_code": 4052,
+        "difficulty": "Easy"
+    },
+    {
+        "full-repo-name": "newville/asteval",
+        "repo-name": "asteval",
+        "lines_of_code": 3028,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "wting/autojump",
+        "repo-name": "autojump",
+        "lines_of_code": 2691,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "hhatto/autopep8",
+        "repo-name": "autopep8",
+        "lines_of_code": 15902,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "hamuchiwa/AutoRCCar",
+        "repo-name": "AutoRCCar",
+        "lines_of_code": 705,
+        "difficulty": "Easy"
+    },
+    {
+        "full-repo-name": "airbnb/binaryalert",
+        "repo-name": "binaryalert",
+        "lines_of_code": 3336,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "mozilla/bleach",
+        "repo-name": "bleach",
+        "lines_of_code": 15766,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "mahmoud/boltons",
+        "repo-name": "boltons",
+        "lines_of_code": 17181,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "boto/boto",
+        "repo-name": "boto",
+        "lines_of_code": 123218,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "cdgriffith/Box",
+        "repo-name": "Box",
+        "lines_of_code": 4020,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "shaypal5/cachier",
+        "repo-name": "cachier",
+        "lines_of_code": 12679,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "pyeve/cerberus",
+        "repo-name": "cerberus",
+        "lines_of_code": 5905,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "Windsooon/cherry",
+        "repo-name": "cherry",
+        "lines_of_code": 1035,
+        "difficulty": "Easy"
+    },
+    {
+        "full-repo-name": "cookiecutter/cookiecutter",
+        "repo-name": "cookiecutter",
+        "lines_of_code": 7426,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "encode/databases",
+        "repo-name": "databases",
+        "lines_of_code": 3554,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "WebwareForPython/DBUtils",
+        "repo-name": "DBUtils",
+        "lines_of_code": 5375,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "henriquebastos/python-decouple",
+        "repo-name": "python-decouple",
+        "lines_of_code": 660,
+        "difficulty": "Easy"
+    },
+    {
+        "full-repo-name": "seperman/deepdiff",
+        "repo-name": "deepdiff",
+        "lines_of_code": 20767,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "scikit-learn-contrib/DESlib",
+        "repo-name": "DESlib",
+        "lines_of_code": 12400,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "mkrd/DictDataBase",
+        "repo-name": "DictDataBase",
+        "lines_of_code": 2598,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "jazzband/docopt-ng",
+        "repo-name": "docopt-ng",
+        "lines_of_code": 2473,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "carpedm20/emoji",
+        "repo-name": "emoji",
+        "lines_of_code": 3728,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "fastapi-users/fastapi-users",
+        "repo-name": "fastapi-users",
+        "lines_of_code": 7571,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "flask-restful/flask-restful",
+        "repo-name": "flask-restful",
+        "lines_of_code": 4529,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "miguelgrinberg/flasky",
+        "repo-name": "flasky",
+        "lines_of_code": 2101,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "spulec/freezegun",
+        "repo-name": "freezegun",
+        "lines_of_code": 2316,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "eyeseast/python-frontmatter",
+        "repo-name": "python-frontmatter",
+        "lines_of_code": 998,
+        "difficulty": "Easy"
+    },
+    {
+        "full-repo-name": "rspeer/python-ftfy",
+        "repo-name": "python-ftfy",
+        "lines_of_code": 2768,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "Suor/funcy",
+        "repo-name": "funcy",
+        "lines_of_code": 3433,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "seatgeek/fuzzywuzzy",
+        "repo-name": "fuzzywuzzy",
+        "lines_of_code": 1202,
+        "difficulty": "Easy"
+    },
+    {
+        "full-repo-name": "cyclotruc/gitingest",
+        "repo-name": "gitingest",
+        "lines_of_code": 6270,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "hardikvasa/google-images-download",
+        "repo-name": "google-images-download",
+        "lines_of_code": 1155,
+        "difficulty": "Easy"
+    },
+    {
+        "full-repo-name": "pyg-team/pytorch_geometric",
+        "repo-name": "pytorch_geometric",
+        "lines_of_code": 149979,
+        "difficulty": "Easy"
+    },
+    {
+        "full-repo-name": "python-humanize/humanize",
+        "repo-name": "humanize",
+        "lines_of_code": 2704,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "gruns/icecream",
+        "repo-name": "icecream",
+        "lines_of_code": 2119,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "chmp/ipytest",
+        "repo-name": "ipytest",
+        "lines_of_code": 1526,
+        "difficulty": "Easy"
+    },
+    {
+        "full-repo-name": "pallets/jinja",
+        "repo-name": "jinja",
+        "lines_of_code": 18108,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "wbolster/jsonlines",
+        "repo-name": "jsonlines",
+        "lines_of_code": 837,
+        "difficulty": "Easy"
+    },
+    {
+        "full-repo-name": "miso-belica/jusText",
+        "repo-name": "jusText",
+        "lines_of_code": 1444,
+        "difficulty": "Easy"
+    },
+    {
+        "full-repo-name": "matthewwithanm/python-markdownify",
+        "repo-name": "python-markdownify",
+        "lines_of_code": 1482,
+        "difficulty": "Easy"
+    },
+    {
+        "full-repo-name": "pallets/markupsafe",
+        "repo-name": "markupsafe",
+        "lines_of_code": 846,
+        "difficulty": "Easy"
+    },
+    {
+        "full-repo-name": "huggingface/Math-Verify",
+        "repo-name": "Math-Verify",
+        "lines_of_code": 3235,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "MechanicalSoup/MechanicalSoup",
+        "repo-name": "MechanicalSoup",
+        "lines_of_code": 2693,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "more-itertools/more-itertools",
+        "repo-name": "more-itertools",
+        "lines_of_code": 12316,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "data61/python-paillier",
+        "repo-name": "python-paillier",
+        "lines_of_code": 3109,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "nalepae/pandarallel",
+        "repo-name": "pandarallel",
+        "lines_of_code": 1358,
+        "difficulty": "Easy"
+    },
+    {
+        "full-repo-name": "r1chardj0n3s/parse",
+        "repo-name": "parse",
+        "lines_of_code": 1799,
+        "difficulty": "Easy"
+    },
+    {
+        "full-repo-name": "mcmtroffaes/pathlib2",
+        "repo-name": "pathlib2",
+        "lines_of_code": 4188,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "jsvine/pdfplumber",
+        "repo-name": "pdfplumber",
+        "lines_of_code": 6920,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "micheles/plac",
+        "repo-name": "plac",
+        "lines_of_code": 2446,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "eliben/pss",
+        "repo-name": "pss",
+        "lines_of_code": 2760,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "asweigart/pyautogui",
+        "repo-name": "pyautogui",
+        "lines_of_code": 3442,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "jpadilla/pyjwt",
+        "repo-name": "pyjwt",
+        "lines_of_code": 6083,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "klen/pylama",
+        "repo-name": "pylama",
+        "lines_of_code": 2166,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "asweigart/pyperclip",
+        "repo-name": "pyperclip",
+        "lines_of_code": 642,
+        "difficulty": "Easy"
+    },
+    {
+        "full-repo-name": "mozillazg/python-pinyin",
+        "repo-name": "python-pinyin",
+        "lines_of_code": 103794,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "gawel/pyquery",
+        "repo-name": "pyquery",
+        "lines_of_code": 3096,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "pysondb/pysondb",
+        "repo-name": "pysondb",
+        "lines_of_code": 491,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "pytest-dev/pytest-cov",
+        "repo-name": "pytest-cov",
+        "lines_of_code": 2548,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "dannysepler/pytestify",
+        "repo-name": "pytestify",
+        "lines_of_code": 1292,
+        "difficulty": "Easy"
+    },
+    {
+        "full-repo-name": "theskumar/python-dotenv",
+        "repo-name": "python-dotenv",
+        "lines_of_code": 2593,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "fabiocaccamo/python-fsutil",
+        "repo-name": "python-fsutil",
+        "lines_of_code": 2722,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "mpdavis/python-jose",
+        "repo-name": "python-jose",
+        "lines_of_code": 4730,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "cpburnz/python-pathspec",
+        "repo-name": "python-pathspec",
+        "lines_of_code": 12263,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "faif/python-patterns",
+        "repo-name": "python-patterns",
+        "lines_of_code": 3529,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "smarie/python-pytest-cases",
+        "repo-name": "python-pytest-cases",
+        "lines_of_code": 11427,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "un33k/python-slugify",
+        "repo-name": "python-slugify",
+        "lines_of_code": 862,
+        "difficulty": "Easy"
+    },
+    {
+        "full-repo-name": "jacebrowning/template-python",
+        "repo-name": "template-python",
+        "lines_of_code": 246,
+        "difficulty": "Easy"
+    },
+    {
+        "full-repo-name": "jacobgil/pytorch-grad-cam",
+        "repo-name": "pytorch-grad-cam",
+        "lines_of_code": 2694,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "stub42/pytz",
+        "repo-name": "pytz",
+        "lines_of_code": 9966,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "kennethreitz/records",
+        "repo-name": "records",
+        "lines_of_code": 701,
+        "difficulty": "Easy"
+    },
+    {
+        "full-repo-name": "psf/requests-html",
+        "repo-name": "requests-html",
+        "lines_of_code": 1026,
+        "difficulty": "Easy"
+    },
+    {
+        "full-repo-name": "rholder/retrying",
+        "repo-name": "retrying",
+        "lines_of_code": 606,
+        "difficulty": "Easy"
+    },
+    {
+        "full-repo-name": "ewels/rich-click",
+        "repo-name": "rich-click",
+        "lines_of_code": 12075,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "dbader/schedule",
+        "repo-name": "schedule",
+        "lines_of_code": 2003,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "keleshev/schema",
+        "repo-name": "schema",
+        "lines_of_code": 2709,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "benjaminp/six",
+        "repo-name": "six",
+        "lines_of_code": 1625,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "scikit-learn/scikit-learn",
+        "repo-name": "scikit-learn",
+        "lines_of_code": 352591,
+        "difficulty": "Easy"
+    },
+    {
+        "full-repo-name": "grantjenks/python-sortedcontainers",
+        "repo-name": "python-sortedcontainers",
+        "lines_of_code": 8149,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "andialbrecht/sqlparse",
+        "repo-name": "sqlparse",
+        "lines_of_code": 5831,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "DLR-RM/stable-baselines3",
+        "repo-name": "stable-baselines3",
+        "lines_of_code": 18765,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "hynek/stamina",
+        "repo-name": "stamina",
+        "lines_of_code": 3071,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "hynek/structlog",
+        "repo-name": "structlog",
+        "lines_of_code": 12890,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "jazzband/tablib",
+        "repo-name": "tablib",
+        "lines_of_code": 4950,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "jd/tenacity",
+        "repo-name": "tenacity",
+        "lines_of_code": 3848,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "msiemens/tinydb",
+        "repo-name": "tinydb",
+        "lines_of_code": 2796,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "tqdm/tqdm",
+        "repo-name": "tqdm",
+        "lines_of_code": 7105,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "TrimTeam/PyTrim",
+        "repo-name": "PyTrim",
+        "lines_of_code": 5036,
+        "difficulty": "Easy"
+    },
+    {
+        "full-repo-name": "blue-yonder/tsfresh",
+        "repo-name": "tsfresh",
+        "lines_of_code": 14152,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "python/typing_extensions",
+        "repo-name": "typing_extensions",
+        "lines_of_code": 11072,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "xiaocong/uiautomator",
+        "repo-name": "uiautomator",
+        "lines_of_code": 2389,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "avian2/unidecode",
+        "repo-name": "unidecode",
+        "lines_of_code": 49524,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "PrimeIntellect-ai/verifiers",
+        "repo-name": "verifiers",
+        "lines_of_code": 87497,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "alecthomas/voluptuous",
+        "repo-name": "voluptuous",
+        "lines_of_code": 4034,
+        "difficulty": "Medium"
+    },
+    {
+        "full-repo-name": "wifiphisher/wifiphisher",
+        "repo-name": "wifiphisher",
+        "lines_of_code": 21007,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "mar10/wsgidav",
+        "repo-name": "wsgidav",
+        "lines_of_code": 13156,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "python-excel/xlrd",
+        "repo-name": "xlrd",
+        "lines_of_code": 8227,
+        "difficulty": "Hard"
+    },
+    {
+        "full-repo-name": "ydataai/ydata-profiling",
+        "repo-name": "ydata-profiling",
+        "lines_of_code": 18354,
+        "difficulty": "Hard"
+    }
+]

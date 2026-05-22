@@ -1,0 +1,188 @@
+{
+    "Easy": [
+        {
+            "full-repo-name": "hamuchiwa/AutoRCCar",
+            "task-name": "AutoRCCar",
+            "lines_of_code": 705,
+            "difficulty": "Easy"
+        },
+        {
+            "full-repo-name": "psf/requests-html",
+            "task-name": "requests-html",
+            "lines_of_code": 1026,
+            "difficulty": "Easy"
+        },
+        {
+            "full-repo-name": "pallets/markupsafe",
+            "task-name": "markupsafe",
+            "lines_of_code": 846,
+            "difficulty": "Easy"
+        },
+        {
+            "full-repo-name": "seatgeek/fuzzywuzzy",
+            "task-name": "fuzzywuzzy",
+            "lines_of_code": 1202,
+            "difficulty": "Easy"
+        },
+        {
+            "full-repo-name": "henriquebastos/python-decouple",
+            "task-name": "decouple",
+            "lines_of_code": 660,
+            "difficulty": "Easy"
+        },
+        {
+            "full-repo-name": "hardikvasa/google-images-download",
+            "task-name": "google-images-download",
+            "lines_of_code": 1155,
+            "difficulty": "Easy"
+        },
+        {
+            "full-repo-name": "eyeseast/python-frontmatter",
+            "task-name": "python-frontmatter",
+            "lines_of_code": 998,
+            "difficulty": "Easy"
+        },
+        {
+            "full-repo-name": "nalepae/pandarallel",
+            "task-name": "pandarallel",
+            "lines_of_code": 1358,
+            "difficulty": "Easy"
+        },
+        {
+            "full-repo-name": "un33k/python-slugify",
+            "task-name": "python-slugify",
+            "lines_of_code": 862,
+            "difficulty": "Easy"
+        },
+        {
+            "full-repo-name": "Windsooon/cherry",
+            "task-name": "cherry",
+            "lines_of_code": 1035,
+            "difficulty": "Easy"
+        }
+    ],
+    "Medium": [
+        {
+            "full-repo-name": "Tinche/aiofiles",
+            "task-name": "aiofiles",
+            "lines_of_code": 1903,
+            "difficulty": "Medium"
+        },
+        {
+            "full-repo-name": "fabiocaccamo/python-fsutil",
+            "task-name": "python-fsutil",
+            "lines_of_code": 2722,
+            "difficulty": "Medium"
+        },
+        {
+            "full-repo-name": "faif/python-patterns",
+            "task-name": "python-patterns",
+            "lines_of_code": 3529,
+            "difficulty": "Medium"
+        },
+        {
+            "full-repo-name": "klen/pylama",
+            "task-name": "pylama",
+            "lines_of_code": 2166,
+            "difficulty": "Medium"
+        },
+        {
+            "full-repo-name": "pytest-dev/pytest-cov",
+            "task-name": "pytest-cov",
+            "lines_of_code": 2548,
+            "difficulty": "Medium"
+        },
+        {
+            "full-repo-name": "encode/databases",
+            "task-name": "databases",
+            "lines_of_code": 3554,
+            "difficulty": "Medium"
+        },
+        {
+            "full-repo-name": "xiaocong/uiautomator",
+            "task-name": "uiautomator",
+            "lines_of_code": 2389,
+            "difficulty": "Medium"
+        },
+        {
+            "full-repo-name": "asweigart/pyautogui",
+            "task-name": "pyautogui",
+            "lines_of_code": 3442,
+            "difficulty": "Medium"
+        },
+        {
+            "full-repo-name": "micheles/plac",
+            "task-name": "plac",
+            "lines_of_code": 2446,
+            "difficulty": "Medium"
+        },
+        {
+            "full-repo-name": "msiemens/tinydb",
+            "task-name": "tinydb",
+            "lines_of_code": 2796,
+            "difficulty": "Medium"
+        }
+    ],
+    "Hard": [
+        {
+            "full-repo-name": "seperman/deepdiff",
+            "task-name": "deepdiff",
+            "lines_of_code": 20767,
+            "difficulty": "Hard"
+        },
+        {
+            "full-repo-name": "ydataai/ydata-profiling",
+            "task-name": "ydata-profiling",
+            "lines_of_code": 18354,
+            "difficulty": "Hard"
+        },
+        {
+            "full-repo-name": "wifiphisher/wifiphisher",
+            "task-name": "wifiphisher",
+            "lines_of_code": 21007,
+            "difficulty": "Hard"
+        },
+        {
+            "full-repo-name": "shaypal5/cachier",
+            "task-name": "cachier",
+            "lines_of_code": 12679,
+            "difficulty": "Hard"
+        },
+        {
+            "full-repo-name": "jpadilla/pyjwt",
+            "task-name": "pyjwt",
+            "lines_of_code": 6083,
+            "difficulty": "Hard"
+        },
+        {
+            "full-repo-name": "WebwareForPython/DBUtils",
+            "task-name": "DBUtils",
+            "lines_of_code": 5375,
+            "difficulty": "Hard"
+        },
+        {
+            "full-repo-name": "grantjenks/python-sortedcontainers",
+            "task-name": "python-sortedcontainers",
+            "lines_of_code": 8149,
+            "difficulty": "Hard"
+        },
+        {
+            "full-repo-name": "smarie/python-pytest-cases",
+            "task-name": "python-pytest-cases",
+            "lines_of_code": 11427,
+            "difficulty": "Hard"
+        },
+        {
+            "full-repo-name": "fastapi-users/fastapi-users",
+            "task-name": "fastapi-users",
+            "lines_of_code": 7571,
+            "difficulty": "Hard"
+        },
+        {
+            "full-repo-name": "hhatto/autopep8",
+            "task-name": "autopep8",
+            "lines_of_code": 15902,
+            "difficulty": "Hard"
+        }
+    ]
+}
