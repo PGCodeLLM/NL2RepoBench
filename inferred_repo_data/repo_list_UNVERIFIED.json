@@ -1,601 +1,601 @@
 [
     {
         "full-repo-name": "Tinche/aiofiles",
-        "repo-name": "aiofiles",
+        "task-name": "aiofiles",
         "lines_of_code": 1903,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "treykeown/arguably",
-        "repo-name": "arguably",
+        "task-name": "arguably",
         "lines_of_code": 4154,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "blazickjp/arxiv-mcp-server",
-        "repo-name": "arxiv-mcp-server",
+        "task-name": "arxiv-mcp-server",
         "lines_of_code": 4052,
         "difficulty": "Easy"
     },
     {
         "full-repo-name": "newville/asteval",
-        "repo-name": "asteval",
+        "task-name": "asteval",
         "lines_of_code": 3028,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "wting/autojump",
-        "repo-name": "autojump",
+        "task-name": "autojump",
         "lines_of_code": 2691,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "hhatto/autopep8",
-        "repo-name": "autopep8",
+        "task-name": "autopep8",
         "lines_of_code": 15902,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "hamuchiwa/AutoRCCar",
-        "repo-name": "AutoRCCar",
+        "task-name": "AutoRCCar",
         "lines_of_code": 705,
         "difficulty": "Easy"
     },
     {
         "full-repo-name": "airbnb/binaryalert",
-        "repo-name": "binaryalert",
+        "task-name": "binaryalert",
         "lines_of_code": 3336,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "mozilla/bleach",
-        "repo-name": "bleach",
+        "task-name": "bleach",
         "lines_of_code": 15766,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "mahmoud/boltons",
-        "repo-name": "boltons",
+        "task-name": "boltons",
         "lines_of_code": 17181,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "boto/boto",
-        "repo-name": "boto",
+        "task-name": "boto",
         "lines_of_code": 123218,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "cdgriffith/Box",
-        "repo-name": "Box",
+        "task-name": "Box",
         "lines_of_code": 4020,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "shaypal5/cachier",
-        "repo-name": "cachier",
+        "task-name": "cachier",
         "lines_of_code": 12679,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "pyeve/cerberus",
-        "repo-name": "cerberus",
+        "task-name": "cerberus",
         "lines_of_code": 5905,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "Windsooon/cherry",
-        "repo-name": "cherry",
+        "task-name": "cherry",
         "lines_of_code": 1035,
         "difficulty": "Easy"
     },
     {
         "full-repo-name": "cookiecutter/cookiecutter",
-        "repo-name": "cookiecutter",
+        "task-name": "cookiecutter",
         "lines_of_code": 7426,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "encode/databases",
-        "repo-name": "databases",
+        "task-name": "databases",
         "lines_of_code": 3554,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "WebwareForPython/DBUtils",
-        "repo-name": "DBUtils",
+        "task-name": "DBUtils",
         "lines_of_code": 5375,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "henriquebastos/python-decouple",
-        "repo-name": "python-decouple",
+        "task-name": "python-decouple",
         "lines_of_code": 660,
         "difficulty": "Easy"
     },
     {
         "full-repo-name": "seperman/deepdiff",
-        "repo-name": "deepdiff",
+        "task-name": "deepdiff",
         "lines_of_code": 20767,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "scikit-learn-contrib/DESlib",
-        "repo-name": "DESlib",
+        "task-name": "DESlib",
         "lines_of_code": 12400,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "mkrd/DictDataBase",
-        "repo-name": "DictDataBase",
+        "task-name": "DictDataBase",
         "lines_of_code": 2598,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "jazzband/docopt-ng",
-        "repo-name": "docopt-ng",
+        "task-name": "docopt-ng",
         "lines_of_code": 2473,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "carpedm20/emoji",
-        "repo-name": "emoji",
+        "task-name": "emoji",
         "lines_of_code": 3728,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "fastapi-users/fastapi-users",
-        "repo-name": "fastapi-users",
+        "task-name": "fastapi-users",
         "lines_of_code": 7571,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "flask-restful/flask-restful",
-        "repo-name": "flask-restful",
+        "task-name": "flask-restful",
         "lines_of_code": 4529,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "miguelgrinberg/flasky",
-        "repo-name": "flasky",
+        "task-name": "flasky",
         "lines_of_code": 2101,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "spulec/freezegun",
-        "repo-name": "freezegun",
+        "task-name": "freezegun",
         "lines_of_code": 2316,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "eyeseast/python-frontmatter",
-        "repo-name": "python-frontmatter",
+        "task-name": "python-frontmatter",
         "lines_of_code": 998,
         "difficulty": "Easy"
     },
     {
         "full-repo-name": "rspeer/python-ftfy",
-        "repo-name": "python-ftfy",
+        "task-name": "python-ftfy",
         "lines_of_code": 2768,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "Suor/funcy",
-        "repo-name": "funcy",
+        "task-name": "funcy",
         "lines_of_code": 3433,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "seatgeek/fuzzywuzzy",
-        "repo-name": "fuzzywuzzy",
+        "task-name": "fuzzywuzzy",
         "lines_of_code": 1202,
         "difficulty": "Easy"
     },
     {
         "full-repo-name": "cyclotruc/gitingest",
-        "repo-name": "gitingest",
+        "task-name": "gitingest",
         "lines_of_code": 6270,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "hardikvasa/google-images-download",
-        "repo-name": "google-images-download",
+        "task-name": "google-images-download",
         "lines_of_code": 1155,
         "difficulty": "Easy"
     },
     {
         "full-repo-name": "pyg-team/pytorch_geometric",
-        "repo-name": "pytorch_geometric",
+        "task-name": "pytorch_geometric",
         "lines_of_code": 149979,
         "difficulty": "Easy"
     },
     {
         "full-repo-name": "python-humanize/humanize",
-        "repo-name": "humanize",
+        "task-name": "humanize",
         "lines_of_code": 2704,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "gruns/icecream",
-        "repo-name": "icecream",
+        "task-name": "icecream",
         "lines_of_code": 2119,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "chmp/ipytest",
-        "repo-name": "ipytest",
+        "task-name": "ipytest",
         "lines_of_code": 1526,
         "difficulty": "Easy"
     },
     {
         "full-repo-name": "pallets/jinja",
-        "repo-name": "jinja",
+        "task-name": "jinja",
         "lines_of_code": 18108,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "wbolster/jsonlines",
-        "repo-name": "jsonlines",
+        "task-name": "jsonlines",
         "lines_of_code": 837,
         "difficulty": "Easy"
     },
     {
         "full-repo-name": "miso-belica/jusText",
-        "repo-name": "jusText",
+        "task-name": "jusText",
         "lines_of_code": 1444,
         "difficulty": "Easy"
     },
     {
         "full-repo-name": "matthewwithanm/python-markdownify",
-        "repo-name": "python-markdownify",
+        "task-name": "python-markdownify",
         "lines_of_code": 1482,
         "difficulty": "Easy"
     },
     {
         "full-repo-name": "pallets/markupsafe",
-        "repo-name": "markupsafe",
+        "task-name": "markupsafe",
         "lines_of_code": 846,
         "difficulty": "Easy"
     },
     {
         "full-repo-name": "huggingface/Math-Verify",
-        "repo-name": "Math-Verify",
+        "task-name": "Math-Verify",
         "lines_of_code": 3235,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "MechanicalSoup/MechanicalSoup",
-        "repo-name": "MechanicalSoup",
+        "task-name": "MechanicalSoup",
         "lines_of_code": 2693,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "more-itertools/more-itertools",
-        "repo-name": "more-itertools",
+        "task-name": "more-itertools",
         "lines_of_code": 12316,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "data61/python-paillier",
-        "repo-name": "python-paillier",
+        "task-name": "python-paillier",
         "lines_of_code": 3109,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "nalepae/pandarallel",
-        "repo-name": "pandarallel",
+        "task-name": "pandarallel",
         "lines_of_code": 1358,
         "difficulty": "Easy"
     },
     {
         "full-repo-name": "r1chardj0n3s/parse",
-        "repo-name": "parse",
+        "task-name": "parse",
         "lines_of_code": 1799,
         "difficulty": "Easy"
     },
     {
         "full-repo-name": "mcmtroffaes/pathlib2",
-        "repo-name": "pathlib2",
+        "task-name": "pathlib2",
         "lines_of_code": 4188,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "jsvine/pdfplumber",
-        "repo-name": "pdfplumber",
+        "task-name": "pdfplumber",
         "lines_of_code": 6920,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "micheles/plac",
-        "repo-name": "plac",
+        "task-name": "plac",
         "lines_of_code": 2446,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "eliben/pss",
-        "repo-name": "pss",
+        "task-name": "pss",
         "lines_of_code": 2760,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "asweigart/pyautogui",
-        "repo-name": "pyautogui",
+        "task-name": "pyautogui",
         "lines_of_code": 3442,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "jpadilla/pyjwt",
-        "repo-name": "pyjwt",
+        "task-name": "pyjwt",
         "lines_of_code": 6083,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "klen/pylama",
-        "repo-name": "pylama",
+        "task-name": "pylama",
         "lines_of_code": 2166,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "asweigart/pyperclip",
-        "repo-name": "pyperclip",
+        "task-name": "pyperclip",
         "lines_of_code": 642,
         "difficulty": "Easy"
     },
     {
         "full-repo-name": "mozillazg/python-pinyin",
-        "repo-name": "python-pinyin",
+        "task-name": "python-pinyin",
         "lines_of_code": 103794,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "gawel/pyquery",
-        "repo-name": "pyquery",
+        "task-name": "pyquery",
         "lines_of_code": 3096,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "pysondb/pysondb",
-        "repo-name": "pysondb",
+        "task-name": "pysondb",
         "lines_of_code": 491,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "pytest-dev/pytest-cov",
-        "repo-name": "pytest-cov",
+        "task-name": "pytest-cov",
         "lines_of_code": 2548,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "dannysepler/pytestify",
-        "repo-name": "pytestify",
+        "task-name": "pytestify",
         "lines_of_code": 1292,
         "difficulty": "Easy"
     },
     {
         "full-repo-name": "theskumar/python-dotenv",
-        "repo-name": "python-dotenv",
+        "task-name": "python-dotenv",
         "lines_of_code": 2593,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "fabiocaccamo/python-fsutil",
-        "repo-name": "python-fsutil",
+        "task-name": "python-fsutil",
         "lines_of_code": 2722,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "mpdavis/python-jose",
-        "repo-name": "python-jose",
+        "task-name": "python-jose",
         "lines_of_code": 4730,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "cpburnz/python-pathspec",
-        "repo-name": "python-pathspec",
+        "task-name": "python-pathspec",
         "lines_of_code": 12263,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "faif/python-patterns",
-        "repo-name": "python-patterns",
+        "task-name": "python-patterns",
         "lines_of_code": 3529,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "smarie/python-pytest-cases",
-        "repo-name": "python-pytest-cases",
+        "task-name": "python-pytest-cases",
         "lines_of_code": 11427,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "un33k/python-slugify",
-        "repo-name": "python-slugify",
+        "task-name": "python-slugify",
         "lines_of_code": 862,
         "difficulty": "Easy"
     },
     {
         "full-repo-name": "jacebrowning/template-python",
-        "repo-name": "template-python",
+        "task-name": "template-python",
         "lines_of_code": 246,
         "difficulty": "Easy"
     },
     {
         "full-repo-name": "jacobgil/pytorch-grad-cam",
-        "repo-name": "pytorch-grad-cam",
+        "task-name": "pytorch-grad-cam",
         "lines_of_code": 2694,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "stub42/pytz",
-        "repo-name": "pytz",
+        "task-name": "pytz",
         "lines_of_code": 9966,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "kennethreitz/records",
-        "repo-name": "records",
+        "task-name": "records",
         "lines_of_code": 701,
         "difficulty": "Easy"
     },
     {
         "full-repo-name": "psf/requests-html",
-        "repo-name": "requests-html",
+        "task-name": "requests-html",
         "lines_of_code": 1026,
         "difficulty": "Easy"
     },
     {
         "full-repo-name": "rholder/retrying",
-        "repo-name": "retrying",
+        "task-name": "retrying",
         "lines_of_code": 606,
         "difficulty": "Easy"
     },
     {
         "full-repo-name": "ewels/rich-click",
-        "repo-name": "rich-click",
+        "task-name": "rich-click",
         "lines_of_code": 12075,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "dbader/schedule",
-        "repo-name": "schedule",
+        "task-name": "schedule",
         "lines_of_code": 2003,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "keleshev/schema",
-        "repo-name": "schema",
+        "task-name": "schema",
         "lines_of_code": 2709,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "benjaminp/six",
-        "repo-name": "six",
+        "task-name": "six",
         "lines_of_code": 1625,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "scikit-learn/scikit-learn",
-        "repo-name": "scikit-learn",
+        "task-name": "scikit-learn",
         "lines_of_code": 352591,
         "difficulty": "Easy"
     },
     {
         "full-repo-name": "grantjenks/python-sortedcontainers",
-        "repo-name": "python-sortedcontainers",
+        "task-name": "python-sortedcontainers",
         "lines_of_code": 8149,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "andialbrecht/sqlparse",
-        "repo-name": "sqlparse",
+        "task-name": "sqlparse",
         "lines_of_code": 5831,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "DLR-RM/stable-baselines3",
-        "repo-name": "stable-baselines3",
+        "task-name": "stable-baselines3",
         "lines_of_code": 18765,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "hynek/stamina",
-        "repo-name": "stamina",
+        "task-name": "stamina",
         "lines_of_code": 3071,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "hynek/structlog",
-        "repo-name": "structlog",
+        "task-name": "structlog",
         "lines_of_code": 12890,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "jazzband/tablib",
-        "repo-name": "tablib",
+        "task-name": "tablib",
         "lines_of_code": 4950,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "jd/tenacity",
-        "repo-name": "tenacity",
+        "task-name": "tenacity",
         "lines_of_code": 3848,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "msiemens/tinydb",
-        "repo-name": "tinydb",
+        "task-name": "tinydb",
         "lines_of_code": 2796,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "tqdm/tqdm",
-        "repo-name": "tqdm",
+        "task-name": "tqdm",
         "lines_of_code": 7105,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "TrimTeam/PyTrim",
-        "repo-name": "PyTrim",
+        "task-name": "PyTrim",
         "lines_of_code": 5036,
         "difficulty": "Easy"
     },
     {
         "full-repo-name": "blue-yonder/tsfresh",
-        "repo-name": "tsfresh",
+        "task-name": "tsfresh",
         "lines_of_code": 14152,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "python/typing_extensions",
-        "repo-name": "typing_extensions",
+        "task-name": "typing_extensions",
         "lines_of_code": 11072,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "xiaocong/uiautomator",
-        "repo-name": "uiautomator",
+        "task-name": "uiautomator",
         "lines_of_code": 2389,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "avian2/unidecode",
-        "repo-name": "unidecode",
+        "task-name": "unidecode",
         "lines_of_code": 49524,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "PrimeIntellect-ai/verifiers",
-        "repo-name": "verifiers",
+        "task-name": "verifiers",
         "lines_of_code": 87497,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "alecthomas/voluptuous",
-        "repo-name": "voluptuous",
+        "task-name": "voluptuous",
         "lines_of_code": 4034,
         "difficulty": "Medium"
     },
     {
         "full-repo-name": "wifiphisher/wifiphisher",
-        "repo-name": "wifiphisher",
+        "task-name": "wifiphisher",
         "lines_of_code": 21007,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "mar10/wsgidav",
-        "repo-name": "wsgidav",
+        "task-name": "wsgidav",
         "lines_of_code": 13156,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "python-excel/xlrd",
-        "repo-name": "xlrd",
+        "task-name": "xlrd",
         "lines_of_code": 8227,
         "difficulty": "Hard"
     },
     {
         "full-repo-name": "ydataai/ydata-profiling",
-        "repo-name": "ydata-profiling",
+        "task-name": "ydata-profiling",
         "lines_of_code": 18354,
         "difficulty": "Hard"
     }

@@ -111,9 +111,9 @@
             "difficulty": "Medium"
         },
         {
-            "full-repo-name": "micheles/plac",
-            "task-name": "plac",
-            "lines_of_code": 2446,
+            "full-repo-name": "airbnb/binaryalert",
+            "task-name": "binaryalert",
+            "lines_of_code": 3336,
             "difficulty": "Medium"
         },
         {
@@ -131,9 +131,9 @@
             "difficulty": "Hard"
         },
         {
-            "full-repo-name": "ydataai/ydata-profiling",
-            "task-name": "ydata-profiling",
-            "lines_of_code": 18354,
+            "full-repo-name": "mahmoud/boltons",
+            "task-name": "boltons",
+            "lines_of_code": 17181,
             "difficulty": "Hard"
         },
         {
